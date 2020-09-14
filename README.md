@@ -1,3 +1,4 @@
-# Test2
+# Testing
 
-Samo nesto testiram# Test2
+This is primitive instagram script for sending messages
+
